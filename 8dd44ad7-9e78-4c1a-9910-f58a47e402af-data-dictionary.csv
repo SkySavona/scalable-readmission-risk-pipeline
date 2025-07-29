@@ -1,0 +1,11 @@
+column,type,label,description
+Year,text,Year,Year of discharge
+Strata,text,Strata,"Includes Age, Sex, Race-Ethnicity, and Expected Payer"
+Strata Name,text,Strata Name,Detail information of each stratum
+County,text,County,County of patient residence
+Total Admits (ICD-9),text,Number of Total Admissions (ICD-9),Number of total admissions in California acute care hospitals (ICD-9)
+30-day Readmits (ICD-9),text,Number of 30-day Readmissions (ICD-9),Number of all-cause unplanned 30-day readmissions in California acute care hospitals (ICD-9)
+30-day Readmission Rate (ICD-9),text,All- Cause 30-day Readmission Rate (ICD-9),Statewide all-cause unplanned 30-day hospital readmission rate (unadjusted) (ICD-9)
+Total Admits (ICD-10),text,Number of Total Admissions (ICD-10),Number of total admissions in California acute care hospitals (ICD-10)
+30-day Readmits (ICD-10),text,Number of 30-day Readmissions (ICD-10),Number of all-cause unplanned 30-day readmissions in California acute care hospitals (ICD-10)
+30-day Readmission Rate (ICD-10),text,All- Cause 30-day Readmission Rate (ICD-10),Statewide all-cause unplanned 30-day hospital readmission rate (unadjusted) (ICD-10)
